@@ -1,4 +1,3 @@
-
 insert into SM_APPBUTNREGISTER (APPID, BTNAREA, BTNCODE, BTNCOLOR, BTNDESC, BTNNAME, BTNORDER, BTNTYPE, DR, ISENABLE, ISKEYFUNC, KEYBOARD, PAGEAREACODE, PAGECODE, PARENT_CODE, PK_BTN, RESID, TS)
 values ('0001ZZZZ11951aa07af0', 'list_head', 'AttachmentBtn', 'button_secondary', null, '附件', 6, 'general_btn', 0, 'Y', 'N', null, null, '60030120_LIST', null, '0001ZZZZ4437dc55e1e5', null, '2021-09-07 15:33:10');
 
